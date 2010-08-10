@@ -21,7 +21,7 @@ This simple plugin allows the WordPress site administrator to enforce minimal pa
 
 = What are the default password requirements impose by WordPress? =
 
-They are none.  Anything except an empty string can be use as a password in an out of the box WordPress installation.
+Anything except an empty string can be use as a password in an out of the box WordPress installation.
 
 = Why should I care about the password of my users? =
 
