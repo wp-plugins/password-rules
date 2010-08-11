@@ -121,6 +121,6 @@ add_action('password_rules','password_rules', 10, 2);
 add_action('password_rules_error','password_rules_error', 10, 1);
 
 // Load the plugin textdomain
-load_plugin_textdomain('password_rules', '', 'password_rules');
+load_plugin_textdomain('password_rules', '', 'password-rules');
 
 ?>
