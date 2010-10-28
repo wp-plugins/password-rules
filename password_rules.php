@@ -66,7 +66,7 @@ function password_rules(&$pass1, &$pass2)
 	//Check if password as a digit
 	$require_digit = ( get_option("require_digit") == "checked" );
 	if ($require_digit && !preg_match('/\d/', $pass1))  {
-		$password_rules_error = __('<strong>ERROR</strong>: Your new password must contain at least one numeric character.','password_rules');
+		$password_rules_error = __('<strong>ERROR</strong>: Your new password must contain at least one digit.','password_rules');
 		return;
 	}
 	

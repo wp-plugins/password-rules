@@ -4,7 +4,7 @@ Donate link: http://maximerainville.com/password_rules
 Tags: password, user
 Requires at least: 3.0.0
 Tested up to: 3.0.1
-Stable tag: 0.2
+Stable tag: 0.3
 
 This simple plugin allows the WordPress site administrator to enforce minimal password requirements on its user.
 
@@ -42,6 +42,9 @@ WordPress hashes passwords before storing them in its database.  You can not det
 
 = 0.2 =
 * Corrected bug that prevented translations from being displayed.
+
+= 0.3 =
+* Very minor correction to translation in French.
 
 == Upgrade Notice ==
 

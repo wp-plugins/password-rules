@@ -27,7 +27,7 @@ echo '/>';
 							<option <?php if ($min_len==$i) {echo 'selected="selected"';}  ?>><?php echo $i; ?></option>
 							<?php } ?>
 						</select>
-						<?php _e("Leave at '0' for no password length limit.",'password_rules'); ?>
+						<?php _e('Leave at "0" for no password length limit.','password_rules'); ?>
 					</td>
 				</tr>
 				<tr valign="middle">
