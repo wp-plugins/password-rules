@@ -3,7 +3,7 @@
 Plugin Name: Password Rules
 Plugin URI: http://maximerainville.com/password_rules
 Description: This simple plugin allows the WordPress site administrator to enforce minimal password requirements on its user.  You can specify a minimal password length.  You can also demand that users input uppercase characters, digits or special characters.  This only effects password changes.  Existing passwords will not be validated.
-Version: 0.1
+Version: 0.3
 Author: Maxime Rainville
 Author URI: http://maximerainville.com
 Text Domain: password_rules
